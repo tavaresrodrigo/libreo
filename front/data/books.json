@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Book 1",
+    "author": "Author One",
+    "cover": "cover1.jpg",
+    "review": "A thought-provoking book about...",
+    "genre": "Non-fiction",
+    "read": true,
+    "date_read": "2023-01-15",
+    "rating": 4,
+    "publisher": "Publisher A",
+    "year_published": 2020,
+    "summary": "An exploration of ideas surrounding personal growth and development."
+  },
+  {
+    "title": "Book 2",
+    "author": "Author Two",
+    "cover": "cover2.jpg",
+    "review": "An insightful look into...",
+    "genre": "Science Fiction",
+    "read": false,
+    "date_read": null,
+    "rating": null,
+    "publisher": "Publisher B",
+    "year_published": 2018,
+    "summary": "A journey through a dystopian future where technology controls humanity."
+  },
+  {
+    "title": "Book 3",
+    "author": "Author Three",
+    "cover": "cover3.jpg",
+    "review": "A fantastic journey through...",
+    "genre": "Fantasy",
+    "read": true,
+    "date_read": "2022-11-07",
+    "rating": 5,
+    "publisher": "Publisher C",
+    "year_published": 2015,
+    "summary": "An epic tale of magic, adventure, and self-discovery."
+  }
+]
+

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Libreo - Book Capture</title>
+  <link rel="stylesheet" href="styles/styles.css">
+</head>
+<body>
+  <header>
+    <h1>Libreo - Book Capture</h1>
+  </header>
+
+  <main>
+    <section id="camera-section">
+      <video id="video" autoplay playsinline></video>
+      <button id="capture-btn">Capture Frame</button>
+      <button id="stop-btn" style="display: none;">Stop Camera</button>
+    </section>
+    
+    <section id="snapshot-gallery" aria-label="Captured Frames">
+      <h2>Captured Frames</h2>
+      <div id="gallery"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Libreo</p>
+  </footer>
+
+  <script src="scripts/app.js"></script>
+</body>
+</html>
